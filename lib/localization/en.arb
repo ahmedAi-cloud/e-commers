@@ -1,0 +1,15 @@
+{
+  "home": "Home",
+  "cart": "Cart",
+  "profile": "Profile",
+  "title": "Shoping",
+  "add_to_cart": "Add to Cart",
+  "settings":"settings",
+  "logout":"logout",
+  "theme_mode":"theme_mode",
+  "change_language":"change_language",
+  "Added_to_cart":"Added to cart",
+  "Cart_is_empty":"Cart is Empty",
+  "My_Cart":"My Cart",
+  "Checkout":"total price"
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "125076495600",
+    "project_id": "e-commers-747ed",
+    "storage_bucket": "e-commers-747ed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125076495600:android:cb0c6e1e56b24929cc3635",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf7Pbv-XcaipHcIZbq0P92vm4FvGe1ALY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

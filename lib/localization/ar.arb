@@ -1,0 +1,15 @@
+{
+  "home": "الرئيسية",
+  "cart": "السلة",
+  "profile": "الملف الشخصي",
+  "title": "التسوق",
+  "add_to_cart":"اضف الى السلة",
+  "settings":"الاعدادات",
+  "logout":"تسجيل الخروج",
+  "theme_mode":"الوضع",
+  "change_language":"تغيير اللغة",
+  "Added_to_cart":"تمت الاضافة الي السلة",
+  "Cart_is_empty":"السلة فارغة",
+  "My_Cart":"السلة",
+  "Checkout":"اجمالي السعر"
+}
